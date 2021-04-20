@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "기계공학도의 SW 여정"
+title                    : "Mechanic's SW Career"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이원일"
-description              : "Bottom to Top을 향해 꾸준히 나아가자!"
+name                     : "Wonil Lee"
+description              : "Bottom to Top constantly and consistently!"
 url                      : "https://BtoT-note.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "이원일"
+  name             : "Wonil_Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BtoT-note"
+  bio              : "Bottom to Top constantly and consistently!"
   location         : "Daegu, Korea"
   email            :
   links:
