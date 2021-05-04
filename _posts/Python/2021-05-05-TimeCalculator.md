@@ -1,3 +1,8 @@
+---
+layout: single
+title: "[Python]BACKJOON_problem 2. 시간 뺄셈 문제"
+---
+
 ### 세자리수*세자리수 연산 알고리즘
 
  세 자리 수) × (세 자리 수)는 다음과 같은 과정을 통하여 이루어진다.
